@@ -7,7 +7,7 @@ that recommends **where to spend a fixed customer-retention budget**.
 **Stack:** PostgreSQL · DBeaver · Power BI
 **Dataset:** UCI Online Retail II — a UK online gift retailer, Dec 2009 – Dec 2011
 
-> 📊 **Live dashboard:** _add your Power BI publish-to-web link here_
+> 📊 **Live dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiMTg4NTM4YzEtY2QxNC00ODM3LWJkMjItOWE1MTE5ZTAyMjU5IiwidCI6ImIyZDUwYTg3LTU1ZTYtNDA0ZS04YjJlLTQ1ZDg5NTMwZTNmOSJ9) 
 > 🖼️ Screenshots in [`dashboard/screenshots/`](dashboard/screenshots)
 
 ---
